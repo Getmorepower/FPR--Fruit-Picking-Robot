@@ -208,7 +208,7 @@ python3 export_trt.py
 
 Training comparison figures are in `Result/` — original vs. 30%-pruned + selected data:
 
-- `./Result/results_original.png` / `results_30percentpruned+selecteddata.png` — loss / mAP curves
+- ![results_original](./Result/results_original.png) / `results_30percentpruned+selecteddata.png` — loss / mAP curves
 - `confusion_matrix_normalized_*.png` — per-cultivar confusion
 - `val_batch0_labels_*.jpg` vs `val_batch0_pred_*.jpg` — qualitative predictions
 
