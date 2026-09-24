@@ -251,8 +251,8 @@ Training comparison figures are in `Result/` — original vs. 30%-pruned + selec
 
 ## 11. Author & Acknowledgement | 作者与致谢
 
-- Author: *(your name)* — Master of IT (Applied AI), Capstone Project
-- Supervisor: *(supervisor name)* — *(university)*
+- Author: Muxin Qiao — Macquarie University Master of IT (Applied AI), Capstone Project
+- Supervisor: Dr. Xiaohan Yu — Macquarie University
 - Platform: JetRover + ROS 2 community, Ultralytics YOLOv8, Orbbec SDK, OpenCV
 
 > Academic use only. Datasets contain orchard-captured images; respect orchard privacy and do not redistribute raw images without permission. 仅供学术研究，果园原始图像未经许可请勿二次分发。
