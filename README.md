@@ -2,7 +2,7 @@
 ### JetRover Vision System for Autonomous Apple Harvesting
 ### 基于 JetRover 的自主苹果采摘视觉系统
 
-> Master of Information Technology (Applied AI) — Capstone / Graduation Project
+> Macquaire University Master of Information Technology (Applied AI) — Capstone / Graduation Project
 > 信息技术硕士（应用人工智能方向）— 毕业设计项目
 
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)](https://docs.ros.org/en/humble/)
