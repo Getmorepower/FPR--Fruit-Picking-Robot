@@ -2,7 +2,7 @@
 ### JetRover Vision System for Autonomous Apple Harvesting
 ### 基于 JetRover 的自主苹果采摘视觉系统
 
-> Macquaire University Master of Information Technology (Applied AI) — Capstone / Graduation Project
+> Macquarie University Master of Information Technology (Applied AI) — Capstone / Graduation Project
 > 信息技术硕士（应用人工智能方向）— 毕业设计项目
 
 ![Demo](./demo_gif.gif)
@@ -208,7 +208,7 @@ python3 export_trt.py
 
 Training comparison figures are in `Result/` — original vs. 30%-pruned + selected data:
 
-- `results_original.png` / `results_30percentpruned+selecteddata.png` — loss / mAP curves
+- `./Result/results_original.png` / `results_30percentpruned+selecteddata.png` — loss / mAP curves
 - `confusion_matrix_normalized_*.png` — per-cultivar confusion
 - `val_batch0_labels_*.jpg` vs `val_batch0_pred_*.jpg` — qualitative predictions
 
