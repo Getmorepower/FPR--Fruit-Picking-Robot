@@ -5,7 +5,7 @@
 > Macquaire University Master of Information Technology (Applied AI) — Capstone / Graduation Project
 > 信息技术硕士（应用人工智能方向）— 毕业设计项目
 
-![Demo](./demo_gif.gif).
+![Demo](./demo_gif.gif)
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)](https://docs.ros.org/en/humble/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Detection-green)](https://github.com/ultralytics/ultralytics)
 [![TensorRT](https://img.shields.io/badge/TensorRT-FP16%20Engine-76b900)](https://developer.nvidia.com/tensorrt)
