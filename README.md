@@ -4,6 +4,7 @@
 
 > Macquarie University Master of Information Technology (Applied AI) — Capstone / Graduation Project
 > 信息技术硕士（应用人工智能方向）— 毕业设计项目
+> 演示Demo视频链接-Bilibili视频：[![基于YOLOv8n + ROS2 的水果分类拿取机器人-本项目为麦考瑞大学AI方向硕士毕业设计-哔哩哔哩](https://b23.tv/PRFy8ni)]
 
 ![Demo](./demo_gif.gif)
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)](https://docs.ros.org/en/humble/)
