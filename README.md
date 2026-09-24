@@ -208,9 +208,9 @@ python3 export_trt.py
 
 Training comparison figures are in `Result/` — original vs. 30%-pruned + selected data:
 
-- ![results_original](./Result/results_original.png) / ![results_30percentpruned+selecteddata](./Result/results_30percentpruned+selecteddata.png) — loss / mAP curves
-- ![confusion_matrix_normalized_original](./Result/confusion_matrix_normalized_original.png) — ![confusion_matrix_normalized_original](./Result/confusion_matrix_normalized_30percentpruned+selecteddata.png)  per-cultivar confusion
-- `val_batch0_labels_*.jpg` vs `val_batch0_pred_*.jpg` — qualitative predictions
+- original![results_original](./Result/results_original.png) / 30%-pruned + selected data![results_30percentpruned+selecteddata](./Result/results_30percentpruned+selecteddata.png) — loss / mAP curves
+- original![confusion_matrix_normalized_original](./Result/confusion_matrix_normalized_original.png) — 30%-pruned + selected data![confusion_matrix_normalized_30percentpruned+selecteddata](./Result/confusion_matrix_normalized_30percentpruned+selecteddata.png)  per-cultivar confusion
+- 30%-pruned + selected data-Labels![val_batch0_labels_30percentpruned+selecteddata](./Result/val_batch0_labels_30percentpruned+selecteddata.jpg) vs 30%-pruned + selected data-Pred![val_batch0_pred_30percentpruned+selecteddata](./Result/val_batch0_pred_30percentpruned+selecteddata.jpg) — qualitative predictions
 
 **EN:** The pruned model retains competitive accuracy while significantly reducing parameters and Jetson latency (see curves). Depth compensation + Kalman filtering visibly stabilizes grasp-point jitter in live trials.
 
