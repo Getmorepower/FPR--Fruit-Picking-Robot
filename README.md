@@ -1,4 +1,4 @@
-# FSR — Fruit Picking Robot 🍎🤖
+# FSR — Fruit Picking Robot
 ### JetRover Vision System for Autonomous Apple Harvesting
 ### 基于 JetRover 的自主苹果采摘视觉系统
 
