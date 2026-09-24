@@ -1,4 +1,4 @@
-# FSR — Fruit Picking Robot
+# FPR — Fruit Picking Robot
 ### JetRover Vision System for Autonomous Apple Harvesting
 ### 基于 JetRover 的自主苹果采摘视觉系统
 
@@ -135,8 +135,8 @@ Camera intrinsics (in code, recalibrate for your camera / 请按实际标定修�
 pip install ultralytics opencv-python numpy pyyaml
 
 # Clone
-git clone https://github.com/Getmorepower/FSR--Fruit-Picking-Robot.git
-cd FSR--Fruit-Picking-Robot
+git clone https://github.com/Getmorepower/FPR--Fruit-Picking-Robot.git
+cd FPR--Fruit-Picking-Robot
 ```
 
 ### 6.2 Export TensorRT engine (on Jetson) / 导出加速引擎
